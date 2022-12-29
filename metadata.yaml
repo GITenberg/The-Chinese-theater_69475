@@ -1,11 +1,16 @@
 _repo: The-Chinese-theater_69475
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69475-h/images/cover.jpg
 creator:
   author:
     agent_name: Zucker, Adolf Eduard
     gutenberg_agent_id: '55283'
     url: http://www.gutenberg.org/2009/agents/55283
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69475#The-Chinese-theater
 gutenberg_issued: '2022-12-04'
 identifiers:
   gutenberg: '69475'
